@@ -7,7 +7,7 @@ This article provides a bare-bones samples that demonstrates the use of the new 
 
 <!-- Article image -->
 
-![Sample Image - MFCHTMLEdit.gif](MFCHTMLEdit/MFCHTMLEdit.gif)
+![Sample Image - MFCHTMLEdit.gif](https://raw.githubusercontent.com/ChrisMaunder/mfchtmledit/master/docs/assets/mfchtmledit.gif)
 
 <!-- Main HTML starts here -->
 
